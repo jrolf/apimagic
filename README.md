@@ -17,14 +17,16 @@ With API Magic, you can:
 
 ---
 
-## 🔧 : Installing the API Magic Python Package
+## 🛠️ : Installing the API Magic Python Package
 
-###Install or Upgrade your ApiMagic Python Library using:
+### Install or Upgrade your ApiMagic Python Library using:
+
 ```python
 pip install --upgrade apimagic
 ```
 
-###Uninstall your ApiMagic Python Library using:
+### Uninstall your ApiMagic Python Library using:
+
 ```python
 pip uninstall apimagic -y
 ```
