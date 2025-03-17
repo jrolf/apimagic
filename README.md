@@ -17,6 +17,20 @@ With API Magic, you can:
 
 ---
 
+## 🔧 : Installing the API Magic Python Package
+
+###Install or Upgrade your ApiMagic Python Library using:
+```python
+pip install --upgrade apimagic
+```
+
+###Uninstall your ApiMagic Python Library using:
+```python
+pip uninstall apimagic -y
+```
+
+---
+
 ## ⚡️ Quick Start: Deployment in 3 Lines!
 
 Here's exactly how simple API Magic makes deploying your first API. **Exactly as stated:**
